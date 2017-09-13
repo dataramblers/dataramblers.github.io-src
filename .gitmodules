@@ -1,0 +1,6 @@
+[submodule "template"]
+	path = template
+	url = https://github.com/arulrajnet/attila
+[submodule "plugins"]
+	path = plugins
+	url = git@github.com:getpelican/pelican-plugins.git
